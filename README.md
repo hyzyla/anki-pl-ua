@@ -25,6 +25,12 @@ python main.py
 
 Update `notes.json` file with new words and run `python main.py` again.
 
+## TODO
+
+- [ ] Add more words
+- [ ] Add CI/CD for autopublishing deck
+- [ ] Add audio for examples
+
 # Anki PL-UA Deck
 
 Код для генерації набору флеш-карток для вивчення польської мови для українців.
