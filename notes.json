@@ -4,5 +4,700 @@
     "pl": "ja",
     "ua": "я",
     "examples": ["Ja jestem z Polski", "Ja jestem z Ukrainy"]
+  },
+  {
+    "id": "ty",
+    "pl": "ty",
+    "ua": "ти",
+    "examples": ["Ty jesteś z Polski", "Ty jesteś z Ukrainy"]
+  },
+  {
+    "id": "on",
+    "pl": "on",
+    "ua": "він",
+    "examples": ["On jest z Polski", "On jest z Ukrainy"]
+  },
+  {
+    "id": "ona",
+    "pl": "ona",
+    "ua": "вона",
+    "examples": ["Ona jest z Polski", "Ona jest z Ukrainy"]
+  },
+  {
+    "id": "my",
+    "pl": "my",
+    "ua": "ми",
+    "examples": ["My jesteśmy z Polski", "My jesteśmy z Ukrainy"]
+  },
+  {
+    "id": "wy",
+    "pl": "wy",
+    "ua": "ви",
+    "examples": ["Wy jesteście z Polski", "Wy jesteście z Ukrainy"]
+  },
+  {
+    "id": "oni_oni",
+    "pl": "oni/one",
+    "ua": "вони",
+    "examples": [
+      "Oni są z Polski",
+      "One są z Polski",
+      "Oni są z Ukrainy",
+      "One są z Ukrainy"
+    ]
+  },
+  {
+    "id": "dzień_dobry",
+    "pl": "dzień dobry",
+    "ua": "добрий день",
+    "examples": ["Dzień dobry, jak się masz?", "Dzień dobry, jak pan się ma?"]
+  },
+  {
+    "id": "dobranoc",
+    "pl": "dobranoc",
+    "ua": "добраніч",
+    "examples": ["Dobranoc, do jutra", "Dobranoc, do zobaczenia"]
+  },
+  {
+    "id": "dziękuję",
+    "pl": "dziękuję",
+    "ua": "дякую",
+    "examples": ["Dziękuję za pomoc", "Dziękuję za obiad"]
+  },
+  {
+    "id": "przepraszam",
+    "pl": "przepraszam",
+    "ua": "вибачте",
+    "examples": [
+      "Przepraszam za spóźnienie",
+      "Przepraszam, czy mogę zadać pytanie?"
+    ]
+  },
+  {
+    "id": "czy",
+    "pl": "czy",
+    "ua": "чи",
+    "examples": ["Czy jesteś z Polski?", "Czy to twoje?"]
+  },
+  {
+    "id": "gdzie",
+    "pl": "gdzie",
+    "ua": "де",
+    "examples": ["Gdzie jest biblioteka?", "Gdzie jest twój dom?"]
+  },
+  {
+    "id": "kiedy",
+    "pl": "kiedy",
+    "ua": "коли",
+    "examples": ["Kiedy zaczyna się koncert?", "Kiedy jest twój urodziny?"]
+  },
+  {
+    "id": "kto",
+    "pl": "kto",
+    "ua": "хто",
+    "examples": ["Kto to jest?", "Kto zna odpowiedź?"]
+  },
+  {
+    "id": "co",
+    "pl": "co",
+    "ua": "що",
+    "examples": ["Co to jest?", "Co robisz?"]
+  },
+  {
+    "id": "dlaczego",
+    "pl": "dlaczego",
+    "ua": "чому",
+    "examples": ["Dlaczego jesteś smutny?", "Dlaczego ona płacze?"]
+  },
+  {
+    "id": "proszę",
+    "pl": "proszę",
+    "ua": "будь ласка",
+    "examples": ["Proszę mi pomóc", "Proszę o kawę"]
+  },
+  {
+    "id": "cześć",
+    "pl": "cześć",
+    "ua": "привіт",
+    "examples": ["Cześć, jak się masz?", "Cześć, co u ciebie?"]
+  },
+  {
+    "id": "tak",
+    "pl": "tak",
+    "ua": "так",
+    "examples": ["Tak, jestem gotowy", "Tak, to jest mój telefon"]
+  },
+  {
+    "id": "nie",
+    "pl": "nie",
+    "ua": "ні",
+    "examples": ["Nie, nie znam tej osoby", "Nie, nie jestem z Polski"]
+  },
+  {
+    "id": "chleb",
+    "pl": "chleb",
+    "ua": "хліб",
+    "examples": ["Potrzebuję kupić chleb", "Chleb jest w kuchni"]
+  },
+  {
+    "id": "woda",
+    "pl": "woda",
+    "ua": "вода",
+    "examples": ["Czy mogę prosić o wodę?", "Woda jest niezbędna do życia"]
+  },
+  {
+    "id": "książka",
+    "pl": "książka",
+    "ua": "книга",
+    "examples": ["Czytam książkę", "Gdzie jest moja książka?"]
+  },
+  {
+    "id": "dom",
+    "pl": "dom",
+    "ua": "дім",
+    "examples": ["Mój dom jest duży", "Wróciłem do domu"]
+  },
+  {
+    "id": "samochód",
+    "pl": "samochód",
+    "ua": "автомобіль",
+    "examples": ["Mój samochód jest czerwony", "Potrzebuję nowego samochodu"]
+  },
+  {
+    "id": "praca",
+    "pl": "praca",
+    "ua": "робота",
+    "examples": ["Szukam pracy", "Mam dużo pracy"]
+  },
+  {
+    "id": "szkoła",
+    "pl": "szkoła",
+    "ua": "школа",
+    "examples": ["Moja szkoła jest blisko", "Jutro idę do szkoły"]
+  },
+  {
+    "id": "kawa",
+    "pl": "kawa",
+    "ua": "кава",
+    "examples": ["Chcę kawę", "Kawa jest gorąca"]
+  },
+  {
+    "id": "herbata",
+    "pl": "herbata",
+    "ua": "чай",
+    "examples": ["Czy mogę prosić o herbatę?", "Herbata jest zimna"]
+  },
+  {
+    "id": "miasto",
+    "pl": "miasto",
+    "ua": "місто",
+    "examples": ["To miasto jest piękne", "Jestem nowy w tym mieście"]
+  },
+  {
+    "id": "pies",
+    "pl": "pies",
+    "ua": "собака",
+    "examples": [
+      "Mój pies jest bardzo duży",
+      "Czy twój pies jest przyjazny?",
+      "Spotkałem biegnącego psa w parku",
+      "Pies jest najlepszym przyjacielem człowieka"
+    ]
+  },
+  {
+    "id": "jedzenie",
+    "pl": "jedzenie",
+    "ua": "їжа",
+    "examples": [
+      "Uwielbiam polskie jedzenie",
+      "Czy to jedzenie jest wegańskie?",
+      "Jedzenie jest bardzo smaczne",
+      "Kiedy zwykle jemy obiad?"
+    ]
+  },
+  {
+    "id": "rodzina",
+    "pl": "rodzina",
+    "ua": "родина",
+    "examples": [
+      "Moja rodzina jest mała",
+      "Jak duża jest twoja rodzina?",
+      "Czy twoja rodzina mieszka w Polsce?",
+      "Rodzina jest najważniejsza"
+    ]
+  },
+  {
+    "id": "przyjaciel",
+    "pl": "przyjaciel",
+    "ua": "друг",
+    "examples": [
+      "Mój przyjaciel mieszka za granicą",
+      "Czy twój przyjaciel już przyjechał?",
+      "Przyjaciel zawsze ci pomoże",
+      "Chcę być twoim przyjacielem"
+    ]
+  },
+  {
+    "id": "muzyka",
+    "pl": "muzyka",
+    "ua": "музика",
+    "examples": [
+      "Lubię różne gatunki muzyki",
+      "Muzyka jest głośna",
+      "Czy możemy posłuchać innej muzyki?",
+      "Muzyka pomaga mi się skupić"
+    ]
+  },
+  {
+    "id": "komputer",
+    "pl": "komputer",
+    "ua": "комп'ютер",
+    "examples": [
+      "Mój komputer jest stary",
+      "Czy twój komputer działa poprawnie?",
+      "Potrzebuję nowego komputera do pracy",
+      "Komputer to niezbędne narzędzie w mojej pracy"
+    ]
+  },
+  {
+    "id": "telewizja",
+    "pl": "telewizja",
+    "ua": "телебачення",
+    "examples": [
+      "Nie oglądam dużo telewizji",
+      "Czy w telewizji jest coś ciekawego?",
+      "Telewizja często pokazuje wiadomości",
+      "Moja telewizja ma dużo kanałów"
+    ]
+  },
+  {
+    "id": "księżyc",
+    "pl": "księżyc",
+    "ua": "місяць",
+    "examples": [
+      "Księżyc jest pełny dzisiaj",
+      "Czy widziałeś wczoraj księżyc?",
+      "Księżyc jest daleko",
+      "Księżyc wygląda pięknie nocą"
+    ]
+  },
+  {
+    "id": "słońce",
+    "pl": "słońce",
+    "ua": "сонце",
+    "examples": [
+      "Słońce jest bardzo jasne",
+      "Słońce zachodzi",
+      "Czy słońce już wzeszło?",
+      "Słońce świeci mocno dzisiaj"
+    ]
+  },
+  {
+    "id": "rzeka",
+    "pl": "rzeka",
+    "ua": "ріка",
+    "examples": [
+      "Rzeka jest szeroka",
+      "Czy możemy popływać w rzece?",
+      "Rzeka przepływa przez nasze miasto",
+      "Ta rzeka jest bardzo głęboka"
+    ]
+  },
+  {
+    "id": "rower",
+    "pl": "rower",
+    "ua": "велосипед",
+    "examples": [
+      "Mój rower jest niebieski",
+      "Czy twój rower ma płaski opon?",
+      "Lubię jeździć na rowerze po parku",
+      "Rower to dobry sposób na poruszanie się po mieście"
+    ]
+  },
+  {
+    "id": "plaża",
+    "pl": "plaża",
+    "ua": "пляж",
+    "examples": [
+      "Plaża jest pełna ludzi",
+      "Czy plaża jest daleko stąd?",
+      "Lubię spacerować po plaży",
+      "Za dwa tygodnie jedziemy na plażę"
+    ]
+  },
+  {
+    "id": "miłość",
+    "pl": "miłość",
+    "ua": "кохання",
+    "examples": [
+      "Miłość to piękne uczucie",
+      "Czy to jest miłość?",
+      "Miłość nie zna granic",
+      "Czy wierzysz w miłość od pierwszego wejrzenia?"
+    ]
+  },
+  {
+    "id": "księgarnia",
+    "pl": "księgarnia",
+    "ua": "книгарня",
+    "examples": [
+      "Księgarnia jest otwarta do 20:00",
+      "Czy w tej księgarni można kupić podręczniki?",
+      "Uwielbiam spędzać czas w księgarni",
+      "Moja ulubiona księgarnia jest na głównej ulicy"
+    ]
+  },
+  {
+    "id": "zdrowie",
+    "pl": "zdrowie",
+    "ua": "здоров'я",
+    "examples": [
+      "Zdrowie jest najważniejsze",
+      "Czy dbasz o swoje zdrowie?",
+      "Nie mogę iść do pracy, bo mam problemy ze zdrowiem",
+      "Regularny wysiłek fizyczny jest dobry dla zdrowia"
+    ]
+  },
+  {
+    "id": "muzeum",
+    "pl": "muzeum",
+    "ua": "музей",
+    "examples": [
+      "Muzeum jest otwarte od wtorku do niedzieli",
+      "Czy byłeś kiedyś w tym muzeum?",
+      "To muzeum ma wspaniałą kolekcję sztuki",
+      "Chodzenie do muzeum to dobry sposób na nauczenie się czegoś nowego"
+    ]
+  },
+  {
+    "id": "restauracja",
+    "pl": "restauracja",
+    "ua": "ресторан",
+    "examples": [
+      "Ta restauracja ma pyszne jedzenie",
+      "Czy ta restauracja jest droga?",
+      "Mam rezerwację w restauracji na 19:00",
+      "W naszym mieście jest wiele dobrych restauracji"
+    ]
+  },
+  {
+    "id": "kino",
+    "pl": "kino",
+    "ua": "кіно",
+    "examples": [
+      "Idziemy do kina na nowy film",
+      "Czy to kino pokazuje filmy w oryginalnym języku?",
+      "Lubię popcorn w kinie",
+      "Moje ulubione kino ma wygodne siedzenia"
+    ]
+  },
+  {
+    "id": "pociąg",
+    "pl": "pociąg",
+    "ua": "поїзд",
+    "examples": [
+      "Pociąg przyjeżdża o 15:00",
+      "Czy ten pociąg jedzie do Warszawy?",
+      "Kupiłem bilet na pociąg",
+      "Jazda pociągiem to relaksująca podróż"
+    ]
+  },
+  {
+    "id": "lotnisko",
+    "pl": "lotnisko",
+    "ua": "аеропорт",
+    "examples": [
+      "Lotnisko jest 20 kilometrów stąd",
+      "Musimy być na lotnisku dwie godziny przed lotem",
+      "Na lotnisku jest dużo sklepów",
+      "Mój lot opuszcza lotnisko o 6:00"
+    ]
+  },
+  {
+    "id": "zima",
+    "pl": "zima",
+    "ua": "зима",
+    "examples": [
+      "Zima w Polsce może być bardzo zimna",
+      "Lubię zimę, szczególnie kiedy pada śnieg",
+      "Podczas zimy dni są krótsze",
+      "Zima to idealny czas na naukę jazdy na nartach"
+    ]
+  },
+  {
+    "id": "wiosna",
+    "pl": "wiosna",
+    "ua": "весна",
+    "examples": [
+      "Wiosna to czas, kiedy wszystko zaczyna kwitnąć",
+      "Lubię wiosnę, ponieważ dni stają się dłuższe",
+      "Wiosna to dobry czas na zaczęcie biegania",
+      "Podczas wiosny często pada deszcz"
+    ]
+  },
+  {
+    "id": "lato",
+    "pl": "lato",
+    "ua": "літо",
+    "examples": [
+      "Lato to moja ulubiona pora roku",
+      "Podczas lata temperatura może wzrosnąć do 35 stopni",
+      "Lubię lato, ponieważ mogę iść na plażę",
+      "W lecie dni są najdłuższe"
+    ]
+  },
+  {
+    "id": "jesień",
+    "pl": "jesień",
+    "ua": "осінь",
+    "examples": [
+      "Jesień to czas, kiedy liście zmieniają kolory",
+      "Jesień to czas zbiorów",
+      "Podczas jesieni dni stają się krótsze",
+      "Jesień to idealny czas na długie spacery"
+    ]
+  },
+  {
+    "id": "morze",
+    "pl": "morze",
+    "ua": "море",
+    "examples": [
+      "Morze jest spokojne dzisiaj",
+      "W Polsce mamy dostęp do Bałtyku",
+      "Lubię spędzać czas nad morzem",
+      "Morze może być niebezpieczne podczas sztormu"
+    ]
+  },
+  {
+    "id": "góry",
+    "pl": "góry",
+    "ua": "гори",
+    "examples": [
+      "Góry w Polsce są przepiękne",
+      "Idziemy na wycieczkę w góry",
+      "Lubię chodzić po górach",
+      "Góry są idealnym miejscem do uprawiania turystyki"
+    ]
+  },
+  {
+    "id": "jezioro",
+    "pl": "jezioro",
+    "ua": "озеро",
+    "examples": [
+      "Jezioro jest idealnym miejscem na piknik",
+      "Jezioro jest głębokie",
+      "Lubię pływać w jeziorze",
+      "Wędkowanie na jeziorze to relaksująca aktywność"
+    ]
+  },
+  {
+    "id": "las",
+    "pl": "las",
+    "ua": "ліс",
+    "examples": [
+      "Las jest pełen zwierząt",
+      "Lubię chodzić po lesie",
+      "Las to doskonałe miejsce na grzybobranie",
+      "Las dostarcza nam drewna"
+    ]
+  },
+  {
+    "id": "pieniądze",
+    "pl": "pieniądze",
+    "ua": "гроші",
+    "examples": [
+      "Pieniądze nie dają szczęścia",
+      "Nie mam wystarczająco dużo pieniędzy",
+      "Pieniądze są potrzebne do życia",
+      "Zarabiam pieniądze na mojej pracy"
+    ]
+  },
+  {
+    "id": "bank",
+    "pl": "bank",
+    "ua": "банк",
+    "examples": [
+      "Muszę iść do banku",
+      "Bank jest zamknięty w niedziele",
+      "Mam konto w banku",
+      "Bank oferuje różne usługi finansowe"
+    ]
+  },
+  {
+    "id": "samolot",
+    "pl": "samolot",
+    "ua": "літак",
+    "examples": [
+      "Lecę samolotem do Hiszpanii",
+      "Samolot jest najszybszym środkiem transportu",
+      "Lubię latać samolotem",
+      "Samolot jest już na pasie startowym"
+    ]
+  },
+  {
+    "id": "sklep",
+    "pl": "sklep",
+    "ua": "магазин",
+    "examples": [
+      "Sklep jest otwarty do 22:00",
+      "Idę do sklepu po mleko",
+      "W sklepie jest dużo ludzi",
+      "Ten sklep ma duży wybór produktów"
+    ]
+  },
+  {
+    "id": "szpital",
+    "pl": "szpital",
+    "ua": "лікарня",
+    "examples": [
+      "Szpital jest otwarty całą dobę",
+      "Musiałem iść do szpitala",
+      "Szpital jest 10 minut stąd",
+      "W szpitalu pracują lekarze i pielęgniarki"
+    ]
+  },
+  {
+    "id": "lekarz",
+    "pl": "lekarz",
+    "ua": "лікар",
+    "examples": [
+      "Lekarz ma przyjęcia w poniedziałki i środy",
+      "Muszę iść do lekarza",
+      "Lekarz dał mi receptę",
+      "Lekarz to ważny zawód"
+    ]
+  },
+  {
+    "id": "muzyk",
+    "pl": "muzyk",
+    "ua": "музикант",
+    "examples": [
+      "Muzyk gra na gitarze",
+      "Moim marzeniem jest zostać muzykiem",
+      "Muzyk pisze swoje piosenki",
+      "Muzyk jest bardzo utalentowany"
+    ]
+  },
+  {
+    "id": "dziennikarz",
+    "pl": "dziennikarz",
+    "ua": "журналіст",
+    "examples": [
+      "Dziennikarz musi być obiektywny",
+      "Dziennikarz często podróżuje",
+      "Dziennikarz zawsze szuka ciekawych historii",
+      "Dziennikarz przeprowadza wywiad z politykiem"
+    ]
+  },
+  {
+    "id": "policjant",
+    "pl": "policjant",
+    "ua": "поліцейський",
+    "examples": [
+      "Policjant stoi na straży prawa",
+      "Policjant zatrzymał złodzieja",
+      "Policjant pomaga ludziom",
+      "Policjant kontroluje ruch drogowy"
+    ]
+  },
+  {
+    "id": "nauczyciel",
+    "pl": "nauczyciel",
+    "ua": "вчитель",
+    "examples": [
+      "Nauczyciel prowadzi lekcje",
+      "Nauczyciel jest bardzo wymagający",
+      "Nauczyciel pomaga uczniom zrozumieć trudne tematy",
+      "Nauczyciel przygotowuje uczniów do egzaminów"
+    ]
+  },
+
+  {
+    "id": "kot",
+    "pl": "kot",
+    "ua": "кіт",
+    "examples": [
+      "Mój kot lubi się bawić",
+      "Kot jest bardzo niezależnym zwierzęciem",
+      "Koty lubią spać",
+      "Kot goni za myszami"
+    ]
+  },
+  {
+    "id": "ptak",
+    "pl": "ptak",
+    "ua": "птах",
+    "examples": [
+      "Ptak lata wysoko w niebie",
+      "Ptaki migrują na zimę",
+      "Ptak buduje gniazdo",
+      "Ptak śpiewa piękne melodie"
+    ]
+  },
+  {
+    "id": "ryba",
+    "pl": "ryba",
+    "ua": "риба",
+    "examples": [
+      "Ryba pływa w akwarium",
+      "Ryby oddychają skrzelami",
+      "Ryba jest smacznym daniem",
+      "Ryby żyją w wodzie"
+    ]
+  },
+  {
+    "id": "kwiat",
+    "pl": "kwiat",
+    "ua": "квітка",
+    "examples": [
+      "Kwiat rośnie w ogrodzie",
+      "Kwiat ma piękne płatki",
+      "Kwiaty są symbolem miłości",
+      "Kwiaty pachną przepięknie"
+    ]
+  },
+  {
+    "id": "drzewo",
+    "pl": "drzewo",
+    "ua": "дерево",
+    "examples": [
+      "Drzewo daje nam cień",
+      "Drzewo jest domem dla wielu zwierząt",
+      "Drzewo rośnie wolno",
+      "Drzewa są ważne dla środowiska"
+    ]
+  },
+  {
+    "id": "stół",
+    "pl": "stół",
+    "ua": "стіл",
+    "examples": [
+      "Stół jest wykonany z drewna",
+      "Przy stole jemy posiłki",
+      "Stół jest czysty",
+      "Stół jest ciężki"
+    ]
+  },
+  {
+    "id": "krzesło",
+    "pl": "krzesło",
+    "ua": "стілець",
+    "examples": [
+      "Krzesło jest wygodne",
+      "Krzesło jest wykonane z plastiku",
+      "Siedzę na krześle",
+      "Krzesło jest lekkie"
+    ]
+  },
+  {
+    "id": "telewizor",
+    "pl": "telewizor",
+    "ua": "телевізор",
+    "examples": [
+      "Telewizor jest włączony",
+      "Oglądam wiadomości w telewizorze",
+      "Telewizor ma 42 cale",
+      "Telewizor jest na ścianie"
+    ]
   }
 ]
