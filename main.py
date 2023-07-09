@@ -109,4 +109,4 @@ for note in data:
     deck.add_note(note)
 
 # Save the deck to a file.
-genanki.Package(deck).write_to_file("output.apkg")
+genanki.Package(deck).write_to_file("output/plua.apkg")
