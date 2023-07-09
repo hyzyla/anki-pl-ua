@@ -1,0 +1,13 @@
+black==23.3.0
+cached-property==1.5.2
+chevron==0.14.0
+click==8.1.4
+frozendict==2.3.8
+genanki==0.13.0
+mypy-extensions==1.0.0
+packaging==23.1
+pathspec==0.11.1
+platformdirs==3.8.1
+PyYAML==6.0
+ruff==0.0.277
+tomli==2.0.1
