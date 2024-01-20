@@ -48,7 +48,6 @@ model = Model(
         {"name": "AUDIO"},
     ],
     templates=[
-        # First template: Polish word -> Ukrainian translation.
         {
             "name": "UA -> PL",
             "qfmt": "{{UA}}",
@@ -62,19 +61,6 @@ model = Model(
                 "<br />"
                 "<br />"
                 "{{AUDIO}}"
-            ),
-        },
-        # Second template: Ukrainian translation -> Polish word.
-        {
-            "name": "PL -> UA",
-            "qfmt": "{{PL}}",
-            "afmt": (
-                "{{FrontSide}}"
-                '<hr id="answer" />'
-                "<b>{{UA}}</b>"
-                "<br />"
-                "<br />"
-                "{{EXAMPLES}}"
             ),
         },
     ],
